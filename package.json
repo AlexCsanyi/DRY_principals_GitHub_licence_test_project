@@ -1,0 +1,16 @@
+{
+  "name": "github_licences_dry_best-practices",
+  "version": "1.0.0",
+  "description": "Get licence info from repos",
+  "main": "github.js",
+  "dependencies": {
+    "request-promise": "^4.2.5",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Csanyi",
+  "license": "ISC"
+}
